@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rbgunturi
+- 👋 Hi, I’m GRBharadwaja
 - 👀 I’m interested in learning coding in git
 - 🌱 I’m currently learning building and deploying new pipelines using azure devops
 - 💞️ I’m looking to collaborate on ...
